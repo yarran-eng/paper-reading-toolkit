@@ -1,0 +1,20 @@
+# Parse output directories
+parsed/
+local_parsed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Temp upload files
+.uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
